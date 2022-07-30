@@ -28,3 +28,14 @@ This group comprises of JDBC, ORM, OXM, JMS and Transaction modules. These modul
 
 ## Web
 This group comprises of Web, Web-Servlet, Web-Struts and Web-Portlet. These modules provide support to create web application.
+
+
+## Spring Example:
+
+Let's see the simple steps to create the spring application
+
+- create the class
+- create the xml file to provide the values
+- create the test class
+- Load the spring jar files
+- Run the test class
