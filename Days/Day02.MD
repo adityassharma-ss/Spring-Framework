@@ -36,3 +36,8 @@ It provides declarative support for caching, validation, transactions and format
 
 - Makes the code loosely coupled so easy to maintain
 - Makes the code easy to test
+
+## Inversion Of Control (IOC) and Dependency Injection:
+
+Thus, IOC makes the code loosely coupled. In such case, there is no need to modify the code if our logic is moved to new environment.
+In Spring framework, IOC container is responsible to inject the dependency. We provide metadata to the IOC container either by XML file or annotation.
