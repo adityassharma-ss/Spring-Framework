@@ -7,4 +7,4 @@
 
 ### What is and why do we use Spring?
 
-- [✔️] ♾️ 1 > [Spring](Days/Day02.MD)
+- [✔️] ♾️ 2 > [Spring](Days/Day02.MD)
