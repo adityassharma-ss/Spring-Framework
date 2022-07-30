@@ -2,4 +2,4 @@
 
 ## Progress
 
-- [✔️] ♾️ 1 > [Introduction](Days/day1.MD)
+- [✔️] ♾️ 1 > [Introduction](Days/Day01.MD)
