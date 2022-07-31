@@ -55,3 +55,11 @@ destruction method
 
 A callback to be used when the container containing the bean is destroyed. It will be discussed in bean life cycle chapter.
 
+## Spring Configuration Metadata
+
+Spring IoC container is totally decoupled from the format in which this configuration metadata is actually written. Following are the three important methods to provide configuration metadata to the Spring Container −
+
+- XML based configuration file.
+- Annotation-based configuration
+- Java-based configuration
+
