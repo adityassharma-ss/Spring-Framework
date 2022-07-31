@@ -8,9 +8,8 @@
 ## What is and why do we use Spring?
 
 - [✔️] ♾️ 2 > [Spring](Days/Day02.MD)
-- [✔️] ♾️ 2 > [Beans](Days/Day02.MD)
 - [✔️] ♾️ 3 > [Working With Spring](Days/Day03.MD)
 
-## Dependency Injection:
+## Beans:
 
-- [✔️] ♾️ 4 > [Spring: Dependency](Days/Day04.MD)
+- [✔️] ♾️ 4 > [Beans](Days/Day04.MD)
