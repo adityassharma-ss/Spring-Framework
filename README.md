@@ -17,6 +17,6 @@
 
 ## AOP(Aspect Oriented Programming):
 
-- [✔️]  7 > [Beans-Scope](Days/Day07.MD)
+- [✔️]  7 > [AOP](Days/Day07.MD)
 
 
